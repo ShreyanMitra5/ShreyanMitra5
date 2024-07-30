@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Pandas, Tensorflow, Keras, Sckit Learn, Java**
 
-- 💬 Ask me about **Python, Algorithms, Datastructures, Physics**
+- 💬 Ask me about **Python, Algorithms, Data Structures, Physics**
 
 - ⚡ Fun fact **I love playing Basketball.**
 
