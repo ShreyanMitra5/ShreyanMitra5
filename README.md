@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shreyan Mitra</h1>
 <h3 align="center">A sophomore interested in Computer Engineering, Physics, and Quantum Computing.</h3>
 
-- 🔭 I’m currently working on [CodeWithPurpose](codewp.tech)
+- 🔭 I’m currently working on [CodeWithPurpose](https://codewp.tech/))
 
 - 🌱 I’m currently learning **Pandas, Tensorflow, Keras, Sckit Learn, Java**
 
