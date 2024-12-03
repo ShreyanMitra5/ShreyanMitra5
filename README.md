@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [CodeWithPurpose](https://codewp.tech/)
 
-- 🌱 I’m currently learning **Pandas, Tensorflow, Keras, Sckit Learn, Java**
+- 🌱 I’m currently learning **Pandas, Pytorch, cv2, Sckit Learn, Java**
 
 - 💬 Ask me about **Python, Algorithms, Data Structures, Physics**
 
