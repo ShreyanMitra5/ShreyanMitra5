@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shreyan Mitra</h1>
 <h3 align="center">A sophomore interested in Computer Engineering, Physics, Bioengineering.</h3>
 
-- 🔭 I’m currently working on [CodeWithPurpose](https://codewp.tech/)
+- 🔭 I’m currently working on [CodeWithPurpose](https://codewithpurpose.org/) and [Clubly](https://www.clubly.space/)
 
-- 🌱 I’m currently learning **Pandas, Pytorch, cv2, Sckit Learn, Java**
+- 🌱 I’m currently learning **R Programming Language, C++, MongoDB**
 
 - 💬 Ask me about **Python, Algorithms, Data Structures, Physics**
 
@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shreyan-mitra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreyan-mitra" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/shreyan-mitra](https://www.linkedin.com/in/shreyan-m-8910172b7/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreyan-mitra" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
